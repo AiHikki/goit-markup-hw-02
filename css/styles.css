@@ -1,3 +1,103 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #fff;
+  color: #434455;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.32px;
 }
+a {
+  text-decoration: none;
+  font-style: normal;
+}
+ul {
+  list-style-type: none;
+}
+h2 {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+h3 {color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;}
+
+/* Header */
+.logo {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+.logo-color {
+  color: #4d5ae5;
+}
+.navigation {
+  color: #2e2f42;
+  font-weight: 500;
+}
+.navigation:hover,
+.navigation:focus {
+  color: #404bbf;
+}
+
+.email {
+  color: #434455;
+}
+.email:hover,
+.email:focus {
+  color: #404bbf;
+}
+.phone-number {
+  color: #434455;
+}
+
+/* Main content*/
+/* Section-1  */
+.hero-image {
+  background-color: #2e2f42;
+}
+.main-title {
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+}
+.button-text {
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.64px;
+}
+.order-button {
+  background-color: #4d5ae5;
+}
+.order-button:hover,
+.order-button:focus {
+  background-color: #404bbf;
+}
+
+/* Section-3 */
+.our-team {background-color: #F4F4FD;}
+.name {
+  text-align: center;
+}
+.occupation {
+  text-align: center;
+}
+
+/* Footer */
+footer {background-color: #2E2F42;}
+.footer-text {color: #F4F4FD;}
+.logo-footer {color: #F4F4FD;}
