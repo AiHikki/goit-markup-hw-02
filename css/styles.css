@@ -38,11 +38,11 @@ ul {
 }
 
 .contacts {
-  color: #434455;
   font-style: normal;
 }
-.contacts :hover,
-.contacts :focus {
+
+.email:hover,
+.email:focus {
   color: #404bbf;
 }
 
