@@ -41,8 +41,8 @@ ul {
   font-style: normal;
 }
 
-.email:hover,
-.email:focus {
+.contacts-info:hover,
+.contacts-info:focus {
   color: #404bbf;
 }
 
