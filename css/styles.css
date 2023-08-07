@@ -15,14 +15,6 @@ ul {
   list-style-type: none;
 }
 
-h3 {
-  color: #2e2f42;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.4px;
-}
-
 /* Header */
 .logo {
   color: #4d5ae5;
@@ -107,10 +99,24 @@ h3 {
   background-color: #fff;
 }
 .name {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
   text-align: center;
 }
 .occupation {
   text-align: center;
+}
+
+/* Section-4 */
+.card-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
 }
 
 /* Footer */
