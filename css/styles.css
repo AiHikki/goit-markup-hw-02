@@ -23,16 +23,18 @@ h2 {
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-h3 {color: #2e2f42;
+h3 {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;}
+  letter-spacing: 0.4px;
+}
 
 /* Header */
 .logo {
   color: #2e2f42;
-  font-family: Raleway;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 21px;
@@ -89,7 +91,9 @@ h3 {color: #2e2f42;
 }
 
 /* Section-3 */
-.our-team {background-color: #F4F4FD;}
+.our-team {
+  background-color: #f4f4fd;
+}
 .name {
   text-align: center;
 }
@@ -98,6 +102,12 @@ h3 {color: #2e2f42;
 }
 
 /* Footer */
-footer {background-color: #2E2F42;}
-.footer-text {color: #F4F4FD;}
-.logo-footer {color: #F4F4FD;}
+footer {
+  background-color: #2e2f42;
+}
+.footer-text {
+  color: #f4f4fd;
+}
+.logo-footer {
+  color: #f4f4fd;
+}
