@@ -5,7 +5,7 @@ body {
   line-height: 1.5;
   font-weight: 400;
   font-size: 16px;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 a {
   text-decoration: none;
@@ -22,7 +22,7 @@ ul {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .logo-header {
@@ -57,14 +57,14 @@ ul {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 1.12px;
+  letter-spacing: 0.02em;
 }
 
 .order-button {
   background-color: #4d5ae5;
   color: #fff;
   font-weight: 500;
-  letter-spacing: 0.64px;
+  letter-spacing: 0.04em;
   line-height: 1.5;
   cursor: pointer;
 }
@@ -80,7 +80,7 @@ ul {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.72px;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .features {
@@ -88,7 +88,7 @@ ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 /* Section-3 */
@@ -103,7 +103,7 @@ ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
   text-align: center;
 }
 .occupation {
@@ -116,7 +116,7 @@ ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 
 /* Footer */
